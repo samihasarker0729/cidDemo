@@ -16,6 +16,4 @@ app.get('/add/:a/:b', (req, res) => {
 app.listen(port, () => { console.log('Our App Is Up And Running!'); });
 module.exports = app
 
-//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
-
-//sabbirahmednirzhor
+//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
